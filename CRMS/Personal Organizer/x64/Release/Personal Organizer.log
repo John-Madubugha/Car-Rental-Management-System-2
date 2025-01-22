@@ -1,0 +1,75 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Personal Organizer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(37,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(37,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(42,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(42,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(48,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(48,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(54,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(54,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(60,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Car.h(60,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(36,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(36,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(42,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(42,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(48,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(48,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(54,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(54,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(60,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(60,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(66,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\Renter.h(66,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\main.cpp(413,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Downloads\CRMS-2\CRMS\Personal Organizer\main.cpp(809,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 387 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Personal Organizer.vcxproj -> C:\Users\user\Downloads\CRMS-2\CRMS\x64\Release\CRMS.exe
