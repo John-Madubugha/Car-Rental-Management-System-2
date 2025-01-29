@@ -454,7 +454,7 @@ public:
             }
 
             // Input Plate Number
-            promptText.setString("Enter plate number: ");
+            promptText.setString("Enter plate number(only letters, digits, or hyphens): ");
             if (!inputTextWithEscape(window, font, pageTitle, promptText, x, y, plateNumber)) {
                 return; // Exit to the main menu if ESC is pressed
             }
@@ -475,7 +475,7 @@ public:
             }
 
             // Input Car Year
-            promptText.setString("Enter car year: ");
+            promptText.setString("Enter car year(must be a 4-digit number between 1886 and 2025): ");
             if (!inputTextWithEscape(window, font, pageTitle, promptText, x, y, carYear)) {
                 return; // Exit to the main menu if ESC is pressed
             }
@@ -533,7 +533,7 @@ public:
 
         // Loop until valid input is provided
         while (!validInput) {
-            promptText.setString("Enter Plate Number to remove: ");
+            promptText.setString("Enter Plate Number to remove(only letters, digits, or hyphens): ");
             if (!inputTextWithEscape(window, font, pageTitle, promptText, x, y, plateNum)) {
                 return; // Exit to the main menu if ESC is pressed
             }

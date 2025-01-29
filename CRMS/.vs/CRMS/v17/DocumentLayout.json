@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{8D5D0BBB-9C1E-4C13-8D35-F1F2AF7E8EF8}|Personal Organizer\\Personal Organizer.vcxproj|C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8D5D0BBB-9C1E-4C13-8D35-F1F2AF7E8EF8}|Personal Organizer\\Personal Organizer.vcxproj|solutionrelative:Personal Organizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D0BBB-9C1E-4C13-8D35-F1F2AF7E8EF8}|Personal Organizer\\Personal Organizer.vcxproj|C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\CompactCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D5D0BBB-9C1E-4C13-8D35-F1F2AF7E8EF8}|Personal Organizer\\Personal Organizer.vcxproj|solutionrelative:Personal Organizer\\CompactCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D0BBB-9C1E-4C13-8D35-F1F2AF7E8EF8}|Personal Organizer\\Personal Organizer.vcxproj|C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D5D0BBB-9C1E-4C13-8D35-F1F2AF7E8EF8}|Personal Organizer\\Personal Organizer.vcxproj|solutionrelative:Personal Organizer\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompactCar.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\CompactCar.h",
+              "RelativeDocumentMoniker": "Personal Organizer\\CompactCar.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\CompactCar.h",
+              "RelativeToolTip": "Personal Organizer\\CompactCar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T19:34:20.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\Car.h",
+              "RelativeDocumentMoniker": "Personal Organizer\\Car.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\Car.h",
+              "RelativeToolTip": "Personal Organizer\\Car.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T19:33:34.545Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\main.cpp",
               "RelativeDocumentMoniker": "Personal Organizer\\main.cpp",
-              "ToolTip": "C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\main.cpp",
-              "RelativeToolTip": "Personal Organizer\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkBAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Downloads\\CRMS-2\\CRMS\\Personal Organizer\\main.cpp*",
+              "RelativeToolTip": "Personal Organizer\\main.cpp*",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAAAMgBAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T17:51:20.964Z",
               "EditorCaption": ""
